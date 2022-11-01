@@ -1,7 +1,10 @@
 import csv
 from operator import itemgetter
 import networkx as nx
-from networkx.algorithms import community #This part of networkx, for community detection, needs to be imported separately.
+
+# This part of networkx, for community detection, needs to be imported separately.
+from networkx.algorithms import community
+
 
 def analyze(nodes, edges):
     with open(nodes, 'r') as nodecsv:  # Open the file
@@ -19,12 +22,11 @@ def analyze(nodes, edges):
     G.add_nodes_from(node_names)
     G.add_edges_from(edges)
 
-    #Density
+    # Density
     density = nx.density(G)
     print("Network density:", density)
 
-
-    #Total degree
+    # Total degree
     degree_dict = dict(G.degree(G.nodes()))
     nx.set_node_attributes(G, degree_dict, 'degree')
     sorted_degree = sorted(degree_dict.items(), key=itemgetter(1), reverse=True)
@@ -37,7 +39,7 @@ def analyze(nodes, edges):
     nx.set_node_attributes(G, degree_dict_in, 'degree_in')
     sorted_degree = sorted(degree_dict_in.items(), key=itemgetter(1), reverse=True)
 
-    #In degree
+    # In degree
     print("\nNodes by in degree:")
     for d in sorted_degree[:]:
         print(d)
@@ -52,4 +54,7 @@ def analyze(nodes, edges):
         print(d)
 
 
-analyze('../nodes/nodes2016.csv', '../edges/byCountryUS.csv')
+if __name__ == '__main__':
+    node_f = '../nodes/nodes2016.csv'
+    edge_f = '../edges/byCountryUS.csv'
+    analyze(node_f, edge_f)
