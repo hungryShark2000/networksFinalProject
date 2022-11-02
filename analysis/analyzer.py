@@ -23,6 +23,9 @@ def analyze(node_f, edge_f):
     G.add_nodes_from(node_names)
     G.add_edges_from(edges)
 
+    # Uncomment this to download for Gephi
+    # nx.write_gexf(G, "2022_uk.gexf")
+
     # Density
     density = nx.density(G)
     print("Network density: ", density)
