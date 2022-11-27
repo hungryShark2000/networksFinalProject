@@ -24,20 +24,11 @@ def analyze(node_f, edge_f):
     G.add_edges_from(edges)
 
     # Uncomment this to download for Gephi
-    # nx.write_gexf(G, "2022_uk.gexf")
+    # nx.write_gexf(G, "2022_country_uk.gexf")
 
     # Density
     density = nx.density(G)
     print("Network density: ", density)
-
-    # # Total degree
-    # degree_dict = dict(G.degree(G.nodes()))
-    # nx.set_node_attributes(G, degree_dict, 'degree')
-    # sorted_degree = sorted(degree_dict.items(), key=itemgetter(1), reverse=True)
-    #
-    # print("Nodes by degree: ")
-    # for d in sorted_degree[:]:
-    #     print(d)
 
     degree_dict_in = dict(G.degree(G.nodes()))
     nx.set_node_attributes(G, degree_dict_in, 'degree_in')
@@ -70,6 +61,9 @@ def analyze(node_f, edge_f):
 
     reciprocity = nx.reciprocity(G)
     print("\nGraph reciprocity: ", reciprocity)
+
+    adjacency_matrix = nx.to_scipy_sparse_matrix(G, nodelist=node_names)
+    print("\nEdge weight: ", adjacency_matrix.todense())
 
 
 if __name__ == '__main__':
