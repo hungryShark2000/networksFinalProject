@@ -1,0 +1,429 @@
+JavaScript,JavaScript,806
+JavaScript,AngularJS,746
+Java,Java,741
+JavaScript,Node.js,644
+Java,Android,618
+JavaScript,Android,546
+Android,Android,515
+SQL,JavaScript,452
+JavaScript,Java,447
+SQL,Android,434
+JavaScript,MongoDB,434
+SQL,SQL,432
+SQL,AngularJS,429
+Java,JavaScript,411
+JavaScript,Python,404
+SQL,Java,396
+Java,AngularJS,373
+AngularJS,AngularJS,359
+C#,C#,350
+SQL,Node.js,348
+Python,Python,343
+Java,Python,341
+JavaScript,SQL,331
+SQL,Python,327
+Android,Java,325
+PHP,PHP,321
+PHP,AngularJS,296
+Java,Node.js,295
+PHP,Android,294
+SQL,MongoDB,287
+PHP,JavaScript,286
+AngularJS,Node.js,280
+AngularJS,JavaScript,279
+PHP,Node.js,271
+JavaScript,PHP,268
+Java,Hadoop,268
+C#,AngularJS,258
+Java,MongoDB,258
+Java,SQL,258
+JavaScript,C#,248
+C#,JavaScript,245
+C,Android,244
+JavaScript,Hadoop,239
+SQL,Hadoop,236
+C,Java,226
+SQL Server,SQL Server,224
+C,Python,222
+C++,Android,214
+SQL,PHP,213
+JavaScript,ReactJS,207
+C,C,207
+PHP,Python,203
+SQL Server,C#,202
+Node.js,Node.js,201
+SQL Server,AngularJS,201
+C++,C++,201
+AngularJS,MongoDB,198
+JavaScript,SQL Server,196
+C#,Android,196
+C,C++,196
+Android,JavaScript,193
+SQL Server,JavaScript,188
+JavaScript,"Cloud (AWS, GAE, Azure, etc.)",187
+Java,iOS,187
+C++,Python,185
+PHP,Java,184
+PHP,MongoDB,184
+SQL,SQL Server,181
+JavaScript,iOS,179
+C#,SQL Server,179
+C++,Java,177
+PHP,SQL,175
+Android,iOS,173
+SQL,C#,172
+JavaScript,Ruby,171
+SQL Server,Android,169
+Node.js,JavaScript,165
+AngularJS,Android,159
+Python,JavaScript,159
+C,JavaScript,158
+SQL,"Cloud (AWS, GAE, Azure, etc.)",157
+C#,Node.js,157
+Node.js,AngularJS,156
+Python,Android,154
+Android,AngularJS,151
+MongoDB,MongoDB,148
+Java,C++,148
+SQL,iOS,145
+MongoDB,Node.js,141
+Android,Python,140
+iOS,iOS,139
+Python,Node.js,136
+MongoDB,AngularJS,136
+Java,"Cloud (AWS, GAE, Azure, etc.)",136
+Java,C,133
+MongoDB,JavaScript,132
+C++,JavaScript,131
+SQL Server,SQL,129
+AngularJS,Java,127
+Android,Node.js,126
+SQL Server,Node.js,124
+iOS,Swift,123
+JavaScript,C++,122
+Node.js,MongoDB,122
+Java,PHP,121
+C++,C,118
+SQL,Ruby,115
+Python,Java,113
+Python,AngularJS,112
+C,SQL,111
+PHP,iOS,110
+C#,SQL,109
+Python,MongoDB,107
+SQL,C++,105
+C#,Python,105
+Objective-C,Swift,105
+Java,Swift,105
+Java,Scala,104
+JavaScript,Swift,102
+AngularJS,Python,102
+AngularJS,ReactJS,102
+PHP,Hadoop,101
+WordPress,AngularJS,100
+C#,MongoDB,97
+LAMP,Node.js,97
+JavaScript,Arduino / Raspberry Pi,96
+Android,MongoDB,96
+Android,Swift,96
+C++,SQL,96
+C,AngularJS,94
+C#,Java,93
+Android,SQL,93
+Java,Ruby,93
+PHP,Ruby,92
+SQL Server,MongoDB,92
+Android,PHP,92
+Objective-C,iOS,92
+C,Node.js,92
+JavaScript,C,90
+Node.js,Android,89
+C#,"Cloud (AWS, GAE, Azure, etc.)",88
+Python,C++,88
+PHP,WordPress,88
+Java,Arduino / Raspberry Pi,88
+JavaScript,Go,87
+Python,Hadoop,87
+JavaScript,WordPress,85
+SQL Server,Java,84
+WordPress,JavaScript,83
+C++,Node.js,83
+MongoDB,Android,80
+Objective-C,Objective-C,80
+SQL,C,79
+C,PHP,79
+JavaScript,Windows Phone,78
+AngularJS,SQL,78
+SQL Server,Python,78
+WordPress,PHP,78
+C++,AngularJS,78
+JavaScript,Cordova,77
+WordPress,Android,77
+Java,SQL Server,77
+iOS,Objective-C,76
+AngularJS,Hadoop,74
+Android,Hadoop,74
+iOS,Android,74
+Java,R,74
+JavaScript,Redis,72
+LAMP,AngularJS,72
+WordPress,Node.js,72
+Java,C#,72
+C#,Windows Phone,71
+C,C#,71
+LAMP,JavaScript,70
+C,Hadoop,70
+SQL Server,Hadoop,69
+Python,R,68
+Android,C++,68
+SQL,R,67
+Node.js,Python,67
+Python,C,67
+JavaScript,R,66
+Node.js,ReactJS,66
+SQL Server,"Cloud (AWS, GAE, Azure, etc.)",66
+MongoDB,Java,66
+LAMP,PHP,65
+MongoDB,Python,65
+C,iOS,65
+SQL,ReactJS,64
+SQL,Swift,63
+Swift,Swift,63
+C#,iOS,61
+PHP,LAMP,61
+C++,C#,61
+Java,ReactJS,61
+JavaScript,Scala,60
+PHP,"Cloud (AWS, GAE, Azure, etc.)",60
+C,MongoDB,60
+C++,PHP,60
+SQL,Arduino / Raspberry Pi,59
+JavaScript,LAMP,59
+C#,Hadoop,59
+Android,Arduino / Raspberry Pi,59
+"Cloud (AWS, GAE, Azure, etc.)","Cloud (AWS, GAE, Azure, etc.)",59
+Java,Spark,59
+LAMP,Python,58
+Java,Go,58
+SQL,Windows Phone,57
+Python,Ruby,57
+Python,"Cloud (AWS, GAE, Azure, etc.)",57
+Python,SQL,57
+LAMP,Android,57
+LAMP,MongoDB,57
+C++,iOS,57
+C++,MongoDB,57
+C++,Hadoop,56
+AngularJS,PHP,55
+Node.js,Java,55
+PHP,C++,53
+MongoDB,Hadoop,53
+AngularJS,C#,52
+Android,"Cloud (AWS, GAE, Azure, etc.)",52
+Visual Basic,C#,52
+SQL,WordPress,50
+AngularJS,"Cloud (AWS, GAE, Azure, etc.)",50
+C,"Cloud (AWS, GAE, Azure, etc.)",50
+WordPress,MongoDB,49
+WordPress,WordPress,49
+Swift,iOS,49
+C,SQL Server,49
+AngularJS,Ruby,48
+PHP,ReactJS,48
+Android,C,47
+PHP,Swift,46
+C,Swift,46
+Python,Arduino / Raspberry Pi,45
+Objective-C,Android,45
+C,Ruby,45
+Visual Basic,Android,44
+SQL,Redis,43
+SQL,Scala,43
+JavaScript,Objective-C,43
+Ruby,Ruby,43
+SQL Server,Windows Phone,43
+JavaScript,CoffeeScript,42
+AngularJS,SQL Server,42
+SQL Server,iOS,42
+Java,Cassandra,42
+PHP,SQL Server,41
+Android,C#,41
+C++,SQL Server,41
+Python,Go,40
+LAMP,LAMP,40
+PHP,C,40
+PHP,C#,38
+Android,Ruby,38
+C++,"Cloud (AWS, GAE, Azure, etc.)",38
+SQL,Go,37
+MongoDB,ReactJS,37
+"Cloud (AWS, GAE, Azure, etc.)",JavaScript,37
+C++,Swift,37
+WordPress,Python,36
+C,Arduino / Raspberry Pi,36
+"Cloud (AWS, GAE, Azure, etc.)",Node.js,36
+C++,Ruby,36
+AngularJS,Cordova,34
+AngularJS,iOS,34
+Python,Scala,34
+C#,C++,33
+Python,PHP,33
+Java,Objective-C,33
+C#,Swift,32
+MongoDB,SQL,32
+"Cloud (AWS, GAE, Azure, etc.)",AngularJS,32
+JavaScript,Cassandra,31
+SQL Server,PHP,31
+WordPress,Java,31
+Android,Objective-C,30
+Node.js,Hadoop,29
+PHP,Arduino / Raspberry Pi,29
+C,R,29
+SQL,Cassandra,28
+SQL,LAMP,28
+WordPress,SQL,28
+Visual Basic,JavaScript,28
+"Cloud (AWS, GAE, Azure, etc.)",Python,27
+Visual Basic,AngularJS,27
+Node.js,Ruby,26
+Java,Redis,26
+JavaScript,SharePoint,25
+Python,ReactJS,25
+LAMP,Java,25
+Node.js,Swift,24
+Python,iOS,24
+Cordova,JavaScript,24
+Cordova,AngularJS,24
+AngularJS,Swift,23
+C#,PHP,23
+C#,SharePoint,23
+Node.js,"Cloud (AWS, GAE, Azure, etc.)",23
+"Cloud (AWS, GAE, Azure, etc.)",Android,23
+Hadoop,Hadoop,23
+Node.js,PHP,22
+"Cloud (AWS, GAE, Azure, etc.)",MongoDB,22
+Visual Basic,SQL Server,22
+SQL,Objective-C,21
+AngularJS,Go,21
+Python,Redis,21
+iOS,Java,21
+C++,Arduino / Raspberry Pi,21
+SQL,Spark,20
+JavaScript,Salesforce,20
+Python,Swift,20
+Android,SQL Server,20
+Swift,Objective-C,20
+Cordova,Node.js,20
+Python,C#,19
+LAMP,Hadoop,19
+LAMP,SQL,19
+PHP,Redis,19
+Java,Cordova,19
+SQL,Cordova,18
+Node.js,Go,18
+MongoDB,"Cloud (AWS, GAE, Azure, etc.)",18
+AngularJS,Redis,17
+LAMP,Ruby,17
+MongoDB,Redis,17
+MongoDB,Scala,17
+Swift,Android,17
+C,Objective-C,17
+C++,R,17
+Java,Windows Phone,17
+AngularJS,Arduino / Raspberry Pi,16
+Node.js,Redis,16
+Node.js,SQL,16
+Ruby,JavaScript,16
+MongoDB,PHP,16
+R,R,16
+Cordova,Android,16
+JavaScript,Spark,15
+Node.js,Arduino / Raspberry Pi,15
+Node.js,iOS,15
+C++,Objective-C,15
+Java,WordPress,15
+AngularJS,Scala,14
+PHP,Cordova,14
+Android,ReactJS,14
+"Cloud (AWS, GAE, Azure, etc.)",Hadoop,14
+R,Python,14
+iOS,Python,13
+PHP,Objective-C,12
+MongoDB,Ruby,12
+Visual Basic,Python,12
+SQL,Perl,11
+SQL,Visual Basic,11
+SQL Server,Ruby,11
+SQL Server,C++,11
+WordPress,Ruby,11
+Android,Cordova,11
+iOS,JavaScript,11
+Objective-C,Java,11
+SQL,Salesforce,10
+C#,Arduino / Raspberry Pi,10
+C#,Ruby,10
+Redis,Python,10
+Visual Basic,Java,10
+Visual Basic,SQL,10
+C#,Visual Basic,9
+Python,Spark,9
+LAMP,"Cloud (AWS, GAE, Azure, etc.)",9
+"Cloud (AWS, GAE, Azure, etc.)",Java,9
+Cordova,Cordova,9
+JavaScript,Visual Basic,8
+C#,C,8
+Python,Haskell,8
+PHP,Windows Phone,8
+PHP,R,8
+MongoDB,Go,8
+MongoDB,iOS,8
+MongoDB,Swift,8
+WordPress,Hadoop,8
+WordPress,iOS,8
+Android,Windows Phone,8
+C++,Windows Phone,8
+Visual Basic,Visual Basic,8
+AngularJS,C++,7
+PHP,Go,7
+iOS,Node.js,7
+C,Windows Phone,7
+Hadoop,Spark,7
+Redis,AngularJS,7
+JavaScript,Perl,6
+C#,R,6
+C,Go,6
+Redis,Node.js,6
+Cordova,MongoDB,6
+JavaScript,Haskell,5
+Android,R,5
+Objective-C,Python,5
+Java,Haskell,5
+AngularJS,WordPress,4
+C#,Objective-C,4
+C#,ReactJS,4
+Ruby,Python,4
+SQL Server,Arduino / Raspberry Pi,4
+SQL Server,Visual Basic,4
+Android,Go,4
+Hadoop,Scala,4
+Redis,Redis,4
+SQL,CoffeeScript,3
+Arduino / Raspberry Pi,Android,3
+Arduino / Raspberry Pi,Arduino / Raspberry Pi,3
+AngularJS,R,3
+Python,Cassandra,3
+LAMP,WordPress,3
+SQL Server,SharePoint,3
+ReactJS,ReactJS,3
+WordPress,LAMP,3
+Hadoop,Java,3
+Redis,MongoDB,3
+AngularJS,Cassandra,2
+Java,LAMP,2
+Node.js,Scala,1
+Ruby,Android,1
+Ruby,MongoDB,1
+PHP,Perl,1
+SQL Server,Swift,1
+Visual Basic,Node.js,1
+Matlab,Python,1
